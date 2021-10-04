@@ -7,6 +7,10 @@ We were given access to approximately 50 datasets. Each one contains reviews of 
 ## Results 
 Using the Vine Table created in Deliverable 1 we first filtered for 20 or more total votes and where the percent of helpful votes/ total votes was greater than or equal to 50%. 
 
+![Paid Summary](https://github.com/cfusco77/Amazon_Vine_Analysis/blob/main/Resources/Paid%20Review%20Summary.png) 
+![Unpaid Summary](https://github.com/cfusco77/Amazon_Vine_Analysis/blob/main/Resources/Unpaid%20Review%20Summary.png) 
+
+
 1. How many Vine reviews and non-Vine reviews were there?\
 Of our filtered dataset there were 18,155 total reviews (18019 unpaid and 136 paid).
 
